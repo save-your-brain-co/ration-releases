@@ -1,0 +1,14 @@
+name: Trigger website rebuild
+
+on:
+  release:
+    types: [published]
+  push:
+    branches: [main]
+
+jobs:
+  rebuild-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel deploy hook
+        run: curl -s -X POST "https://api.vercel.com/v1/integrations/deploy/prj_BtMhwOyV5aPYXikYbkFAuXq1Um5C/nlv0GJf5NQ"
