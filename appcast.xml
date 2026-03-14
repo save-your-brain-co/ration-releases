@@ -6,6 +6,19 @@
         <description>Ration app updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.0.12</title>
+            <pubDate>Sat, 14 Mar 2026 21:32:17 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.12/Ration-0.0.12.dmg"
+                length="3056768"
+                type="application/octet-stream"
+                sparkle:edSignature="4/03/kp4phF0CEri9gnS8tmtiX/v4FFtRxAgueavGHNCbHJEkvdxPD6BeH7qQTkQTRGQmQxV/LwVH3nZpzxHCw=="
+            />
+        </item>
+        <item>
             <title>Version 0.0.11</title>
             <pubDate>Sat, 14 Mar 2026 21:22:00 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -32,17 +45,4 @@
             />
         </item>
     </channel>
-        <item>
-            <title>Version 0.0.12</title>
-            <pubDate>Sat, 14 Mar 2026 21:32:17 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.0.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.12/Ration-0.0.12.dmg"
-                length="3056768"
-                type="application/octet-stream"
-                sparkle:edSignature="4/03/kp4phF0CEri9gnS8tmtiX/v4FFtRxAgueavGHNCbHJEkvdxPD6BeH7qQTkQTRGQmQxV/LwVH3nZpzxHCw=="
-            />
-        </item>
 </rss>
