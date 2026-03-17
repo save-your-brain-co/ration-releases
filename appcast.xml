@@ -239,5 +239,18 @@
                 sparkle:edSignature="Pbmz+F9FuCnVBhAFGvypoQOSMYs5z7sIOZEGBcOBKvIOjgUUq/JCCgyu3J4Y3hxSrN5yYBVvBFQcxYOjHnjlDg=="
             />
         </item>
+        <item>
+            <title>Version 0.0.28</title>
+            <pubDate>Tue, 17 Mar 2026 22:21:14 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.28/Ration-0.0.28.dmg"
+                length="4148240"
+                type="application/octet-stream"
+                sparkle:edSignature="A7OvyZbZeR68IRZSlqEakL9UHBjuaCYltst8Ssgj1H2tS1fIsyI1fH8po+5UFE+eZTXpV60imuh8n6ndsPUxAw=="
+            />
+        </item>
     </channel>
 </rss>
