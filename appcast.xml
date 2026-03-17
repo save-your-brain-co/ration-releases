@@ -161,5 +161,18 @@
                 sparkle:edSignature="Nw80plnbDoW9N/Wr5SUuFl+F2yzbseC2/SkPUVFg/IgvG4JsqIrZDIVX8LbnhpndKvgtQzExVDMli6XlMaZKCQ=="
             />
         </item>
+        <item>
+            <title>Version 0.0.22</title>
+            <pubDate>Tue, 17 Mar 2026 19:30:39 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.22/Ration-0.0.22.dmg"
+                length="4089940"
+                type="application/octet-stream"
+                sparkle:edSignature="BBLr+PjbYF8DF+SB6TZqbP9pk2Uy+xjojmfO3nLq5IcEEjIotkA16YFJZC7c6zm7RE3MXdrodSvukZRZHwUDCg=="
+            />
+        </item>
     </channel>
 </rss>
