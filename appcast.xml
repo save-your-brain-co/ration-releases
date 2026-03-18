@@ -293,19 +293,6 @@
         </item>
         <item>
             <title>Version 0.0.32</title>
-            <pubDate>Wed, 18 Mar 2026 02:59:57 +0000</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.0.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.32/Ration-0.0.32.dmg"
-                length="4109750"
-                type="application/octet-stream"
-                sparkle:edSignature="F5uvzQ0SLNQD8EYAokhfsOOoIZDDsAPB5JlyI1wSjQ1VUz17NdJDVJUyQQru29htT4zk02RMmODKECXH4vseDQ=="
-            />
-        </item>
-        <item>
-            <title>Version 0.0.32</title>
             <pubDate>Wed, 18 Mar 2026 03:28:19 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.0.32</sparkle:shortVersionString>
