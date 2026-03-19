@@ -395,5 +395,18 @@
                 sparkle:edSignature="MNIptOuQUP7wA4is2JYMjXsM2rcVFqC4jZMN7MFLx9zajFKWSYn6AC/nvcw4Q/T/FvJ2EBrr+5pjVD3IfGFxAA=="
             />
         </item>
+        <item>
+            <title>Version 0.0.41</title>
+            <pubDate>Thu, 19 Mar 2026 01:42:33 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.0.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/save-your-brain-co/ration-releases/releases/download/v0.0.41/Ration-0.0.41.dmg"
+                length="5290862"
+                type="application/octet-stream"
+                sparkle:edSignature="a/HOfCbgSE10eUo0kaNUSzE687DNosS2pfmvEv6xy7uQW0r1tfF393fuDIusZlvJAvFthn425u2Bl64Cq84RDQ=="
+            />
+        </item>
     </channel>
 </rss>
