@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "See CHANGELOG.md",
+  "pub_date": "2026-05-08T01:37:53Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-v0.1.1/notes-app-0.1.1.dmg",
+      "signature": ""
+    }
+  }
+}
