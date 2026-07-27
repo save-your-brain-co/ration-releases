@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "See CHANGELOG.md",
-  "pub_date": "2026-07-27T17:34:29Z",
+  "pub_date": "2026-07-27T21:02:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-v0.1.4/notes-app-0.1.4.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR0pjeU4rRC91ZzUwd0I0ZGVocnhvWXpBMU12SVl5QTN6bU5pcWk0ZDhvSG4rWjArQW1PY1FlQnJ0MWNRdHhGOXVJVXEzWjZuT3dOQmZMZUlLRHdITWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTczNjY5CWZpbGU6bm90ZXMtYXBwXzAuMS40X2FhcmNoNjQuZG1nCmF6QUN4S0s4a095ZnkrZFhSM244dzBQdEhJQVl1N2dod0VLM0kzWW1iTEVjRnAxZFgyb1owZ1VnV3phSVVBS3hBMFp5ZzY3RzkxRnFkVVd1a3M5MERRPT0K"
+      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-v0.1.5/notes-app-0.1.5.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR01ad2FVOFJOZ2pDc0tTVVhnK0IyVUIvTGduZmQzZkJWQlBCWlcyMnFZdFB5WGtTWEpMRzV4aWpUYnA2QndHOG9Dc1hlZUtqVEdybitBdkQ5Z2lvY1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTg2MTczCWZpbGU6bm90ZXMtYXBwLmFwcC50YXIuZ3oKSnJEOTYra3k2cTVUMURNMHMzc0xZK0xiVkxHMDZBNDZYL1FNRjRhRnVsbnV2aXpudzFHb1JZZk9ZM3V5QXRvMW4yK0FneW44dU1XZm1JVXZtWjFqQUE9PQo="
     }
   }
 }
