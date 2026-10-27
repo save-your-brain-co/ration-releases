@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25-beta.78",
+  "version": "0.1.25-beta.79",
   "notes": "Beta build — experimental. Not the stable channel.",
-  "pub_date": "2026-10-27T20:26:19Z",
+  "pub_date": "2026-10-27T21:11:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-beta-latest/notes-app-0.1.25-beta.78.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR0NabTNaQnFZMkxuK2JVRzFTbzJ6QnZmdVl3V2JWYi9laEcwb3lVUFJHMFkwUEhqMVFDem1WSnFkYlBMNjlPTTBwM1A0Njlvb21wNGt4V1diZUdtRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTMyNzc5CWZpbGU6bm90ZXMtYXBwLmFwcC50YXIuZ3oKMjNjWVRaS0RucXA5YnRwVGpmNmdjdlJEWjVHb21QeW53MDBTTDl1UHo0a2ZQaXpVdm5lMEw3bTFPZGhaMlhXMWl0YW5NT1ZoVDU4NGtwbC81dnhxQXc9PQo="
+      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/notes-beta-latest/notes-app-0.1.25-beta.79.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ1VaTnhxeEluR0JVbFlDOWtTNFJPT0FhQWs2eERmVjBZN0lyVUtONGlYc0lDc013MlBTRzArWmdhblhXcEh1dWNNVEJtTHNOamdrZzV0cW0yanBZK20vMSs0a3hBTVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1NDY2CWZpbGU6bm90ZXMtYXBwLmFwcC50YXIuZ3oKa0RqVHVRdUxYaFZaNTNUcVQ4WHl2TWUyZEh2c0xVMHBiVjExZWpHWHJnZ21vTmFqTDhZODNjc0c0SFl6eXl5ZHcvdG83dVpiK0hmSUs5Y2IzbFVDQ0E9PQo="
     }
   }
 }
