@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "notes": "See CHANGELOG.md",
+  "pub_date": "2026-11-06T22:37:24Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/save-your-brain-co/ration-releases/releases/download/zettel-v0.0.1/zettel-0.0.1.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMkFGQ1MxdWk3a3B3MGJoVGxTbDhaODgrajJCYTFKQzZ5aDNscVZOSG1uOUtpUUVZQS8rU1RFNkhvUjc2QmM5VVRhdUYxZnlYL3l1TmNxQWtTUEQ4TDNDZ2VRRVdhZHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDA0NTk3CWZpbGU6emV0dGVsLmFwcC50YXIuZ3oKc0swRjRMd3RhdGVBWEVTYStWUjdKNnpnYytCNFBtMlJYeVU0MDIwSWhPQ3kvbnRoTzdrMjg4VHREekNZOHp4NlRZYjZGVXF3QWxDWml6Y1hIRE9UREE9PQo="
+    }
+  }
+}
